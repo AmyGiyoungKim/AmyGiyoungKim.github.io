@@ -1,8 +1,8 @@
-----
+---
 title: "210215 넥사크로 SpringBoot 연동 & 댓글 수정 완료"
 date: 2021-02-15 
 categories: til nexacro springboot
-----
+---
 ### 💪 Things to do
 (1) COMMENT MODIFY BY Ajax
 - Got a troble to replace Textarea tag @ orginal contents
