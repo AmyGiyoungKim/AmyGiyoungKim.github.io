@@ -11,6 +11,11 @@ categories: til nexacro springboot
 (2) BugReport front page designed
   - left side of main part should fill it up with Employee information OR introduction of 'How to write BugReport' (Still working on it)
 
+(3) Update Git Blog
+  - DO NOT FORGET TO WRITE '-' on your GIT BLOG TITLTE!!!! LOL
+   - Why?
+    - You won't able to upload your writting haha
+    
 ### 📢 Plan for tomorrow OR a week
 - Slowly needs to start '게시판 관리' : should organised the plan 
 - '자소서' needs to be done by tomorrow
