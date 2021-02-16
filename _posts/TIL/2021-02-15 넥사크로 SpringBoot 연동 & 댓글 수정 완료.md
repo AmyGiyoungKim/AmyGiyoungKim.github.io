@@ -26,4 +26,3 @@ categories: til nexacro springboot
 
 ### 📢 Plan for tomorrow OR a week
 -  Nexacro Front Page should be done till morning OR at least early afternoon.
-
