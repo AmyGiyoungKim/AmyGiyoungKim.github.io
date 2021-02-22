@@ -1,0 +1,26 @@
+---
+title: "210219-넥사크로 피드백"
+date: 2021-02-19 
+categories: til nexacro springboot
+---
+### 💪 Things to do
+
+Got a feedback from Nexacro
+
+### 📚Feedback
+
+(1) Folder should be well organised before project started
+
+(2) If you use few pop-up, it should individually have an ID 
+
+(3) ChildFrame should included 'init'
+
+(4) For using 'fn_callback', it has to include id,args,ErrMsg
+
+<ex: 'this.fn_callback = function(id,args,ErrMsg)'>
+
+### 📢 Plan for tomorrow OR a week
+
+- Front page needs to change
+
+### 💬 Leave Impression of your work
