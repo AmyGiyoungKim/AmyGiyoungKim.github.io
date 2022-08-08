@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "김 지영"
+  name             : "김지영"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My daily report :)"
   location         : "Seoul, South Korea"
