@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "김 지영"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am not the No.1. I am only ONE. :)"
+  bio              : "My daily report :)"
   location         : "South Korea"
   email            :
   links:
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/AmyGiyoungKim"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
